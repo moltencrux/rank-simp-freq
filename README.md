@@ -95,6 +95,8 @@ python rank_simp.py \
 * Position-aware matching (e.g. 金 → 钅 only on the left)  
 * Better CDP mapping table  
 * Better handling of variant characters
+* Find groupings of similar one-off patterns, e.g 構➔构, 購➔购, 溝,沟 to further reduce learning burden
+
 
 ## **Data Sources**
 
